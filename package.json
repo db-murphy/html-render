@@ -1,0 +1,19 @@
+{
+  "name": "html-render-engine",
+  "version": "1.0.0",
+  "description": "富文本渲染",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/db-murphy/html-render.git"
+  },
+  "author": "rainbolean@sina.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/db-murphy/html-render/issues"
+  },
+  "homepage": "https://github.com/db-murphy/html-render#readme"
+}
